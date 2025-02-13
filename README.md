@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Analyst from India, Transforming Data into Actionable Insights</h3>
 
 
-
+<h1> </h1>
 
 
 - 🌱 I’m currently learning **Power BI, Python for Data Analysis**
