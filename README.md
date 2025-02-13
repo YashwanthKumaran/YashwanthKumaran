@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthkumaran" alt="yashwanthkumaran" /></a> </p>
 
-- 🔭 Check out my project [Retail Sales Insights: SQL Data Analysis Project](https://github.com/YashwanthKumaran/Retail-Sales-Insights-SQL-Data-Analysis-Project)
+
 
 - 🌱 I’m currently learning **Power BI, Python for Data Analysis**
 
 - Hi, I'm Yashwanth Kumaran, a dedicated Data Analyst from India with a strong passion for uncovering insights from data. I specialize in Python, SQL, UI/UX design, and data visualization, helping businesses make data-driven decisions.I am always eager to learn new technologies and explore innovative solutions in data analytics and AI. Open to freelance and full-time opportunities. **Data Analysis & Visualization, Python Programming, SQL & Relational Databases, UI/UX Design, Machine Learning & Predictive Analytics**
+
+- 🔭 Check out my project [Retail Sales Insights: SQL Data Analysis Project](https://github.com/YashwanthKumaran/Retail-Sales-Insights-SQL-Data-Analysis-Project)
 
 - 📫 How to reach me **yashwanthkumaran02@gmail.com**
 
