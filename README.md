@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Power BI, Python for Data Analysis**
 
+- Hi, I'm Yashwanth Kumaran, a dedicated Data Analyst from India with a strong passion for uncovering insights from data. I specialize in Python, SQL, UI/UX design, and data visualization, helping businesses make data-driven decisions.I am always eager to learn new technologies and explore innovative solutions in data analytics and AI. Open to freelance and full-time opportunities. **Data Analysis & Visualization, Python Programming, SQL & Relational Databases, UI/UX Design, Machine Learning & Predictive Analytics**
+
 - 📫 How to reach me **yashwanthkumaran02@gmail.com**
+
+- ⚡ Fun fact **I can spend hours analyzing data patterns but still struggle to decide what to watch on Netflix.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
