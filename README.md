@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Kumaran</h1>
 <h3 align="center">A Passionate Data Analyst from India, Transforming Data into Actionable Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthkumaran&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthkumaran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthkumaran" alt="yashwanthkumaran" /></a> </p>
-
 - 🌱 I’m currently learning **Power BI, Python for Data Analysis**
 
 - Hi, I'm Yashwanth Kumaran, a dedicated Data Analyst from India with a strong passion for uncovering insights from data. I specialize in Python, SQL, UI/UX design, and data visualization, helping businesses make data-driven decisions.I am always eager to learn new technologies and explore innovative solutions in data analytics and AI. Open to freelance and full-time opportunities. **Data Analysis & Visualization, Python Programming, SQL & Relational Databases, UI/UX Design, Machine Learning & Predictive Analytics**
