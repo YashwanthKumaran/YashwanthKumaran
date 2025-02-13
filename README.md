@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Kumaran</h1>
 <h3 align="center">A Passionate Data Analyst from India, Transforming Data into Actionable Insights</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthkumaran&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthkumaran" /> </p>
 
-<h1> </h1>
-<p1></p1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthkumaran" alt="yashwanthkumaran" /></a> </p>
+
+- 🔭 Check out my project [Retail Sales Insights: SQL Data Analysis Project](https://github.com/YashwanthKumaran/Retail-Sales-Insights-SQL-Data-Analysis-Project)
 
 - 🌱 I’m currently learning **Power BI, Python for Data Analysis**
 
