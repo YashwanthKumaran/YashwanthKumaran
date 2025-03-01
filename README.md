@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthkumaran" alt="yashwanthkumaran" /></a> </p>
 
-- 🔭 Check out my projects [Automated-Data-Cleaning-System-using-python](https://github.com/YashwanthKumaran/Automated-Data-Cleaning-System-using-python)
+- 🔭 Check out my projects
+-  
+- -> [Automated-Data-Cleaning-System-using-python](https://github.com/YashwanthKumaran/Automated-Data-Cleaning-System-using-python)
 
 - -> [Netflix Movies and TV Shows Data Analysis using SQL](https://github.com/YashwanthKumaran/netflix_project)
 
