@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthkumaran" alt="yashwanthkumaran" /></a> </p>
 
 - 🔭 Check out my projects
+
+- -> [Air Bnb Exploratory Data Analysis (EDA) Project using Python](https://github.com/YashwanthKumaran/airbnb_eda_project_using_python)
   
 - -> [Automated-Data-Cleaning-System-using-python](https://github.com/YashwanthKumaran/Automated-Data-Cleaning-System-using-python)
 
